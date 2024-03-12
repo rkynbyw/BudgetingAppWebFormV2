@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BudgetingApp.BO\BudgetingApp.BO.csproj" />
+    <ProjectReference Include="..\BudgetingApp.DAL\BudgetingApp.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
