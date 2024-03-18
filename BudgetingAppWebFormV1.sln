@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BudgetingAppWebFormV1", "BudgetingAppWebFormV1\BudgetingAppWebFormV1.vbproj", "{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingApp.BO", "BudgetingApp.BO\BudgetingApp.BO.csproj", "{F9511E97-32F0-4D59-B561-59F3E58B5FEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingApp.BO", "BudgetingApp.BO\BudgetingApp.BO.csproj", "{F9511E97-32F0-4D59-B561-59F3E58B5FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingApp.DAL", "BudgetingApp.DAL\BudgetingApp.DAL.csproj", "{873524F9-D149-4144-BD2A-B0345CC68F59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingApp.DAL", "BudgetingApp.DAL\BudgetingApp.DAL.csproj", "{873524F9-D149-4144-BD2A-B0345CC68F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingApp.BLL", "BudgetingApp.BLL\BudgetingApp.BLL.csproj", "{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingApp.BLL", "BudgetingApp.BLL\BudgetingApp.BLL.csproj", "{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingApp.MVC", "BudgetingApp.MVC\BudgetingApp.MVC.csproj", "{DE77A3E5-F686-4141-B6C7-62D566D24ED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE77A3E5-F686-4141-B6C7-62D566D24ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE77A3E5-F686-4141-B6C7-62D566D24ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE77A3E5-F686-4141-B6C7-62D566D24ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE77A3E5-F686-4141-B6C7-62D566D24ED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

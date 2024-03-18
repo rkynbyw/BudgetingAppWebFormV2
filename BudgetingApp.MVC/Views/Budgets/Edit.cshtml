@@ -1,0 +1,74 @@
+﻿@model BudgetingApp.BLL.DTOs.BudgetDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>BudgetDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BudgetID" class="control-label"></label>
+                <input asp-for="BudgetID" class="form-control" readonly />
+                <span asp-validation-for="BudgetID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MonthDate" class="control-label"></label>
+                <input asp-for="MonthDate" type="month" class="form-control" />
+                <span asp-validation-for="MonthDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label"></label>
+                <input asp-for="UserID" class="form-control" readonly />
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TransactionCategoryID" class="control-label">Transaction Category:</label>
+                <select asp-for="TransactionCategoryID" class="form-control">
+                    <option value="">Select Transaction Category</option>
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        <option value="@category.TransactionCategoryID">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="TransactionCategoryID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="BudgetWithExpense">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            // Atur nilai default untuk TransactionCategoryID setelah halaman dimuat
+            var selectedTransactionCategory = '@(ViewBag.TransactionCategoryID)';
+
+            // Atur nilai default untuk TransactionCategoryID jika tidak kosong
+            if (selectedTransactionCategory !== '') {
+                $('#TransactionCategoryID').val(selectedTransactionCategory);
+            }
+        });
+    </script>
+
+}

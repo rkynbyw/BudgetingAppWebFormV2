@@ -8,3 +8,4 @@ D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\obj\Debug\n
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\obj\Debug\netstandard2.0\BudgetingApp.BO.csproj.CoreCompileInputs.cache
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\obj\Debug\netstandard2.0\BudgetingApp.BO.dll
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\obj\Debug\netstandard2.0\BudgetingApp.BO.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\obj\Debug\netstandard2.0\BudgetingApp.BO.sourcelink.json

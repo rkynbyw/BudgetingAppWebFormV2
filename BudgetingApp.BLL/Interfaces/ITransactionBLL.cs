@@ -17,5 +17,8 @@ namespace BudgetingApp.BLL.Interfaces
 
         decimal GetUserIncome(int userID);
 
+        IEnumerable<TransactionDTO> GetUserTransactionV2(int userID, int? year = null, int? month = null, int? transactionCategoryID = null, int? transactionTypeID = null);
+
+        decimal GetUserExpenseByMonth(int userID, int transactionCategoryID, int year, int month);
     }
 }

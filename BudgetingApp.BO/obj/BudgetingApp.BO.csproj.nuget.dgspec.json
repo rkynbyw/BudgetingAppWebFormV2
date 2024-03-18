@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj": {}
+    "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj": {
+    "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
+        "projectUniqueName": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
         "projectName": "BudgetingApp.BO",
-        "projectPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
+        "projectPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
         "packagesPath": "D:\\Users\\bsi80216\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\obj\\",
+        "outputPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi80216\\AppData\\Roaming\\NuGet\\NuGet.Config",
