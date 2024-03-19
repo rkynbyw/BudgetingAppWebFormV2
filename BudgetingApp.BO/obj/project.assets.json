@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
+      "projectUniqueName": "d:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
       "projectName": "BudgetingApp.BO",
-      "projectPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
+      "projectPath": "d:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
       "packagesPath": "D:\\Users\\bsi80216\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\obj\\",
+      "outputPath": "d:\\Users\\bsi80216\\Documents\\Bootcamp\\ASP Core MVC\\FinalProject\\BudgetingAppWebFormV1\\BudgetingApp.BO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\bsi80216\\AppData\\Roaming\\NuGet\\NuGet.Config",

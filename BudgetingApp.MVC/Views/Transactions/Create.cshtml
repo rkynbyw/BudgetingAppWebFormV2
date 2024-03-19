@@ -33,7 +33,6 @@
 									<option value="1">Pengeluaran</option>
 									<option value="2">Pemasukan</option>
 								</select>
-								<!-- Tambahkan validasi atau pesan kesalahan di sini jika diperlukan -->
 							</div>
 
 							<div class="form-group">
@@ -97,22 +96,17 @@
 
 	<script>
 		$(document).ready(function () {
-			// Sembunyikan opsi TransactionCategoryID awalnya
 
-
-			// Ketika nilai TransactionTypeID berubah
 			$('#TransactionType').change(function () {
 				var selectedType = $(this).val();
-				var url = '@Url.Action("GetCategoryByType", "Transactions")'; // Ubah sesuai dengan URL yang sesuai
+				var url = '@Url.Action("GetCategoryByType", "Transactions")'; 
 
-				// Mengambil data kategori berdasarkan tipe transaksi
 				$.getJSON(url, { transactionTypeId: selectedType }, function (data) {
 					var items = '<option value="">Pilih Kategori</option>';
 					$.each(data, function (i, category) {
 						items += "<option value='" + category.value + "'>" + category.text + "</option>";
 					});
 
-					// Perbarui opsi TransactionCategoryID
 					$('#TransactionCategoryID').html(items).show();
 				});
 			});
@@ -122,13 +116,10 @@
 	<script>
 		$(document).ready(function () {
 			$('#create-form').submit(function (event) {
-				// Mencegah form dari pengiriman langsung
 				event.preventDefault();
 
-				// Mengambil nilai TransactionTypeID yang dipilih oleh pengguna
 				var transactionType = $('#TransactionType').val();
 
-				// Menyiapkan data untuk dikirimkan
 				var formData = {
 					WalletID: $('#WalletID').val(),
 					TransactionCategoryID: $('#TransactionCategoryID').val(),
@@ -136,19 +127,18 @@
 					Date: $('#Date').val(),
 					Description: $('#Description').val(),
 					UserID: $('#UserID').val(),
-					TransactionTypeID: transactionType // Menambahkan TransactionTypeID ke objek data
+					TransactionTypeID: transactionType 
 				};
 
-				// Mengirimkan data ke action Create pada controller
 				$.ajax({
 					url: '@Url.Action("Create", "Transactions")',
 					method: 'POST',
 					data: formData,
 					success: function (response) {
-						// Lakukan sesuatu setelah berhasil menambahkan transaksi
+						
 					},
 					error: function (xhr, status, error) {
-						// Tangani kesalahan jika terjadi
+						
 					}
 				});
 			});

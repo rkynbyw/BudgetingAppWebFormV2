@@ -89,7 +89,6 @@
 @section Scripts {
 	<script>
 		$(document).ready(function () {
-			// Atur nilai default untuk TransactionType dan TransactionCategory setelah halaman dimuat
 			var selectedTransactionType = '@(ViewBag.TransactionType)';
 			var selectedTransactionCategory = '@(ViewBag.TransactionCategoryID)';
 
@@ -100,8 +99,6 @@
 			if (selectedTransactionCategory !== '') {
 				$('#TransactionCategoryID').val(selectedTransactionCategory);
 			}
-
-			// Fungsi untuk mengambil kategori berdasarkan tipe transaksi yang dipilih
 			function getCategories(select) {
 				var transactionType = select.value;
 				var url = '@Url.Action("GetCategoryByType", "Transactions")';
@@ -113,17 +110,17 @@
 					});
 					$('#TransactionCategoryID').html(options);
 
-					// Set opsi yang dipilih berdasarkan nilai ViewBag
+
 					if ('@ViewBag.TransactionCategoryID' !== '') {
 						$('#TransactionCategoryID').val('@ViewBag.TransactionCategoryID');
 					}
 				});
 			}
 
-			// Panggil fungsi getCategories saat halaman dimuat untuk mendapatkan kategori yang sesuai dengan tipe transaksi
+		
 			getCategories($('#TransactionType')[0]);
 
-			// Atur nilai TransactionType dan panggil kembali fungsi getCategories saat perubahan terjadi
+			
 			$('#TransactionType').change(function () {
 				getCategories(this);
 			});

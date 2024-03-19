@@ -39,10 +39,9 @@ namespace BudgetingApp.MVC.Controllers
 
             IEnumerable<BudgetDTO> models = _budgetBLL.GetUserBudgets(userId);
 
-            // Create a dictionary to store expenses by category
+
             var expensesByCategory = new Dictionary<int, decimal>();
 
-            // Iterate through each budget to calculate expenses
             foreach (var budget in models)
             {
                 if (budget.TransactionCategoryID.HasValue)
@@ -55,7 +54,6 @@ namespace BudgetingApp.MVC.Controllers
                 }
             }
 
-            // Pass budgets and expenses to the view
             ViewBag.Budgets = models;
             ViewBag.ExpensesByCategory = expensesByCategory;
 
@@ -119,7 +117,7 @@ namespace BudgetingApp.MVC.Controllers
                 return NotFound();
             }
 
-            // Mendapatkan kategori transaksi yang tersedia
+
             var transactionCategories = _categoryBLL.GetCategoryNameByType(1)
                 .Select(c => new SelectListItem
                 {
@@ -128,14 +126,11 @@ namespace BudgetingApp.MVC.Controllers
                     Selected = c.TransactionCategoryID == budget.TransactionCategoryID
                 });
 
-            // Menyiapkan ViewBag dengan data yang diperlukan
             ViewBag.TransactionCategories = transactionCategories;
 
-            // Menyiapkan ViewBag untuk TransactionCategoryID
             ViewBag.TransactionCategoryID = budget.TransactionCategoryID;
 
-            // Inisialisasi ViewBag.Categories
-            ViewBag.Categories = _categoryBLL.GetCategoryNameByType(1); // Ganti dengan metode yang sesuai
+            ViewBag.Categories = _categoryBLL.GetCategoryNameByType(1);
 
             return View(budget);
         }
@@ -151,23 +146,23 @@ namespace BudgetingApp.MVC.Controllers
         {
             if (id != budgetDTO.BudgetID)
             {
-                return NotFound(); // Return 404 Not Found jika ID tidak cocok dengan ID pada objek budgetDTO
+                return NotFound();
             }
 
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _budgetBLL.UpdateBudget(budgetDTO); // Memperbarui budget
+                    _budgetBLL.UpdateBudget(budgetDTO);
                     return RedirectToAction("BudgetWithExpense");
                 }
                 catch
                 {
-                    // Jika terjadi kesalahan saat memperbarui, kembalikan tampilan edit dengan budgetDTO
+
                     return View(budgetDTO);
                 }
             }
-            return View(budgetDTO); // Kembalikan tampilan edit dengan budgetDTO jika ModelState tidak valid
+            return View(budgetDTO);
         }
 
         // GET: BudgetsController/Delete/5
@@ -176,7 +171,7 @@ namespace BudgetingApp.MVC.Controllers
             var budget = _budgetBLL.GetBudgetByID(id);
             if (budget == null)
             {
-                return NotFound(); // Return 404 Not Found jika budget dengan ID yang diberikan tidak ditemukan
+                return NotFound();
             }
             return View(budget);
         }
@@ -188,12 +183,12 @@ namespace BudgetingApp.MVC.Controllers
         {
             try
             {
-                _budgetBLL.DeleteBudget(id); // Hapus budget dengan ID yang diberikan
+                _budgetBLL.DeleteBudget(id);
                 return RedirectToAction("BudgetWithExpense");
             }
             catch
             {
-                return View(); // Kembalikan tampilan delete jika terjadi kesalahan
+                return View();
             }
         }
 
