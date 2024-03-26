@@ -17,6 +17,42 @@ namespace BudgetingApp.BLL
             _transactionDAL = new TransactionDAL();
         }
 
+        public IEnumerable<TransactionDTO> GetUserTransactionV2(int userID, int? year = null, int? month = null, int? transactionCategoryID = null, int? transactionTypeID = null)
+        {
+            var transactions = _transactionDAL.GetUserTransactionV2(userID, year, month, transactionCategoryID, transactionTypeID);
+            var transactionDTOs = new List<TransactionDTO>();
+
+            foreach (var transaction in transactions)
+            {
+                var transactionDTO = new TransactionDTO
+                {
+                    TransactionID = transaction.TransactionID,
+                    UserID = transaction.UserID,
+                    WalletID = transaction.WalletID,
+                    TransactionCategoryID = transaction.TransactionCategoryID,
+                    Amount = transaction.Amount,
+                    Date = transaction.Date,
+                    Description = transaction.Description,
+                    WalletName = transaction.Wallet.WalletType.Name,
+                    Wallet = new WalletDTO
+                    {
+                        WalletType = new WalletTypeDTO
+                        {
+                            Name = transaction.Wallet.WalletType.Name
+                        }
+                    },
+                    TransactionCategory = new TransactionCategoryDTO
+                    {
+                        Name = transaction.TransactionCategory.Name,
+                        TransactionTypeID = transaction.TransactionCategory.TransactionTypeID
+                    }
+                };
+                transactionDTOs.Add(transactionDTO);
+            }
+
+            return transactionDTOs;
+        }
+
         public IEnumerable<TransactionDTO> GetAll()
         {
             List<TransactionDTO> listTransactionsDto = new List<TransactionDTO>();
@@ -201,6 +237,19 @@ namespace BudgetingApp.BLL
                 throw new Exception(ex.Message);
             }
         }
+
+        public decimal GetUserExpenseByMonth(int userID, int year, int month, int transactionCategoryID)
+        {
+            try
+            {
+                return _transactionDAL.GetUserExpenseByMonth(userID, year, month, transactionCategoryID);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
 
         public decimal GetUserIncome(int userID)
         {

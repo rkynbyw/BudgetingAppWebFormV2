@@ -1,0 +1,148 @@
+﻿@model BudgetingApp.BLL.DTOs.TransactionDTO
+
+@{
+	ViewData["Title"] = "Create";
+}
+
+<div class="row">
+	<div class="d-sm-flex align-items-center justify-content-between mb-4">
+		<h1 class="mt-4 mb-4"></h1>
+	</div>
+	<div class="col-lg-12">
+		<!-- Basic Card Example -->
+		<div class="card shadow mb-4">
+			<div class="card-header py-3">
+				<h6 class="m-0 font-weight-bold text-primary">Create Transactions</h6>
+			</div>
+			<div class="card-body">
+				<div class="row">
+					<div class="col-md-4">
+						<form asp-action="Create">
+							<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+							
+							@*             <div class="form-group">
+							<label asp-for="TransactionType" class="control-label"></label>
+							<select asp-for="TransactionType" class="form-control" asp-items="@(ViewBag.TransactionTypes)"></select>
+							<span asp-validation-for="TransactionType" class="text-danger"></span>
+							</div> *@
+
+							<div class="form-group">
+								<label for="TransactionType" class="control-label">Transaction Type</label>
+								<select id="TransactionType" class="form-control">
+									<option value="">Select Transaction Type</option>
+									<option value="1">Pengeluaran</option>
+									<option value="2">Pemasukan</option>
+								</select>
+							</div>
+
+							<div class="form-group">
+								<label asp-for="TransactionCategoryID" class="control-label"></label>
+								<select asp-for="TransactionCategoryID" class="form-control" asp-items="@(ViewBag.TransactionCategories)">
+									<option value="">Select Transaction Category</option>
+
+								</select>
+
+								<span asp-validation-for="TransactionCategoryID" class="text-danger"></span>
+							</div>
+							<div class="form-group">
+								<label asp-for="Amount" class="control-label"></label>
+								<input asp-for="Amount" class="form-control" />
+								<span asp-validation-for="Amount" class="text-danger"></span>
+							</div>
+							<div class="form-group">
+								<label asp-for="WalletID" class="control-label"></label>
+								<select asp-for="WalletID" class="form-control" asp-items="@(new SelectList(ViewBag.Wallets, "Value", "Text"))">
+									<option value="">Select Wallet</option>
+								</select>
+								<span asp-validation-for="WalletID" class="text-danger"></span>
+							</div>
+							<div class="form-group">
+								<label asp-for="Date" class="control-label"></label>
+								<input asp-for="Date" type="date" class="form-control" />
+								<span asp-validation-for="Date" class="text-danger"></span>
+							</div>
+
+							<div class="form-group">
+								<label asp-for="Description" class="control-label"></label>
+								<input asp-for="Description" class="form-control" />
+								<span asp-validation-for="Description" class="text-danger"></span>
+							</div>
+							<div class="form-group">
+								<label asp-for="UserID" class="control-label"></label>
+								<input asp-for="UserID" class="form-control" readonly/>
+								<span asp-validation-for="UserID" class="text-danger"></span>
+							</div>
+
+							<div class="form-group">
+								<input type="submit" value="Create" class="btn btn-primary" />
+							</div>
+						</form>
+					</div>
+				</div>
+
+				<div>
+					<a asp-action="Index">Back to List</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+
+	<script>
+		$(document).ready(function () {
+
+			$('#TransactionType').change(function () {
+				var selectedType = $(this).val();
+				var url = '@Url.Action("GetCategoryByType", "Transactions")'; 
+
+				$.getJSON(url, { transactionTypeId: selectedType }, function (data) {
+					var items = '<option value="">Pilih Kategori</option>';
+					$.each(data, function (i, category) {
+						items += "<option value='" + category.value + "'>" + category.text + "</option>";
+					});
+
+					$('#TransactionCategoryID').html(items).show();
+				});
+			});
+		});
+	</script>
+
+	<script>
+		$(document).ready(function () {
+			$('#create-form').submit(function (event) {
+				event.preventDefault();
+
+				var transactionType = $('#TransactionType').val();
+
+				var formData = {
+					WalletID: $('#WalletID').val(),
+					TransactionCategoryID: $('#TransactionCategoryID').val(),
+					Amount: $('#Amount').val(),
+					Date: $('#Date').val(),
+					Description: $('#Description').val(),
+					UserID: $('#UserID').val(),
+					TransactionTypeID: transactionType 
+				};
+
+				$.ajax({
+					url: '@Url.Action("Create", "Transactions")',
+					method: 'POST',
+					data: formData,
+					success: function (response) {
+						
+					},
+					error: function (xhr, status, error) {
+						
+					}
+				});
+			});
+		});
+	</script>
+
+}

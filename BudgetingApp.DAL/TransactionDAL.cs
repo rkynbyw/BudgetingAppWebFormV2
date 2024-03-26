@@ -3,7 +3,6 @@ using BudgetingApp.DAL.Interfaces;
 using Dapper;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using Transaction = BudgetingApp.BO.Transaction;
@@ -15,8 +14,60 @@ namespace BudgetingApp.DAL
 
         private string GetConnectionString()
         {
-            return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            //return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            return Helper.GetConnectionString();
         }
+
+        public IEnumerable<Transaction> GetUserTransactionV2(int userID, int? year = null, int? month = null, int? transactionCategoryID = null, int? transactionTypeID = null)
+        {
+            using (SqlConnection conn = new SqlConnection(GetConnectionString()))
+            {
+                List<Transaction> transactions = new List<Transaction>();
+                var strSql = "GetUserTransactionV2"; // Ubah menjadi nama stored procedure Anda
+                SqlCommand cmd = new SqlCommand(strSql, conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@UserID", userID);
+                cmd.Parameters.AddWithValue("@Year", year != null ? (object)year : DBNull.Value);
+                cmd.Parameters.AddWithValue("@Month", month != null ? (object)month : DBNull.Value);
+                cmd.Parameters.AddWithValue("@TransactionCategoryID", transactionCategoryID != null ? (object)transactionCategoryID : DBNull.Value);
+                cmd.Parameters.AddWithValue("@TransactionTypeID", transactionTypeID != null ? (object)transactionTypeID : DBNull.Value);
+
+
+                conn.Open();
+                SqlDataReader dr = cmd.ExecuteReader();
+
+                while (dr.Read())
+                {
+                    var transaction = new Transaction()
+                    {
+                        TransactionID = Convert.IsDBNull(dr["TransactionID"]) ? 0 : Convert.ToInt32(dr["TransactionID"]),
+                        UserID = Convert.IsDBNull(dr["UserID"]) ? 0 : Convert.ToInt32(dr["UserID"]),
+                        WalletID = Convert.IsDBNull(dr["WalletID"]) ? 0 : Convert.ToInt32(dr["WalletID"]),
+                        TransactionCategoryID = Convert.IsDBNull(dr["TransactionCategoryID"]) ? 0 : Convert.ToInt32(dr["TransactionCategoryID"]),
+                        Amount = Convert.IsDBNull(dr["Amount"]) ? 0 : Convert.ToDecimal(dr["Amount"]),
+                        Date = Convert.IsDBNull(dr["Date"]) ? DateTime.MinValue : Convert.ToDateTime(dr["Date"]),
+                        Description = Convert.IsDBNull(dr["Description"]) ? string.Empty : dr["Description"].ToString(),
+                        Wallet = new Wallet()
+                        {
+                            WalletType = new WalletType()
+                            {
+                                Name = Convert.IsDBNull(dr["WalletName"]) ? string.Empty : dr["WalletName"].ToString(),
+                            }
+                        },
+                        TransactionCategory = new TransactionCategory()
+                        {
+                            Name = Convert.IsDBNull(dr["TransactionCategory"]) ? string.Empty : dr["TransactionCategory"].ToString(),
+                            TransactionTypeID = Convert.IsDBNull(dr["TransactionTypeID"]) ? 0 : Convert.ToInt32(dr["TransactionTypeID"])
+                        }
+                    };
+                    transactions.Add(transaction);
+                }
+
+                return transactions;
+
+            }
+        }
+
 
         public IEnumerable<Transaction> GetAll()
         {
@@ -182,6 +233,37 @@ namespace BudgetingApp.DAL
                 catch (SqlException sqlEx)
                 {
                     // Handle SQL exception (e.g., log the error, throw exception, etc.)
+                    throw new ArgumentException($"{sqlEx.InnerException?.Message} - {sqlEx.Number}");
+                }
+                catch (Exception ex)
+                {
+                    // Handle other exceptions
+                    throw new ArgumentException("Error: " + ex.Message);
+                }
+            }
+        }
+
+        public decimal GetUserExpenseByMonth(int userID, int year, int month, int transactionCategoryID)
+        {
+            using (SqlConnection conn = new SqlConnection(GetConnectionString()))
+            {
+                var strSql = "GetUserExpenseByCategoryAndMonth";
+                var parameters = new
+                {
+                    UserID = userID,
+                    Year = year,
+                    Month = month,
+                    TransactionCategoryID = transactionCategoryID
+                };
+
+                try
+                {
+                    decimal result = conn.QuerySingleOrDefault<decimal>(strSql, parameters, commandType: CommandType.StoredProcedure);
+                    return result;
+                }
+                catch (SqlException sqlEx)
+                {
+                    // Handle SQL exception
                     throw new ArgumentException($"{sqlEx.InnerException?.Message} - {sqlEx.Number}");
                 }
                 catch (Exception ex)

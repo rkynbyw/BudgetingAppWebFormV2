@@ -7,6 +7,8 @@ namespace BudgetingApp.BO
         public TransactionCategory()
         {
             this.Transactions = new List<Transaction>();
+            this.Budgets = new List<Budget>();
+
         }
 
         public int TransactionCategoryID { get; set; }
@@ -14,5 +16,9 @@ namespace BudgetingApp.BO
         public string Name { get; set; }
 
         public IEnumerable<Transaction> Transactions { get; set; }
+
+        public IEnumerable<Budget> Budgets { get; set; }
+
+
     }
 }

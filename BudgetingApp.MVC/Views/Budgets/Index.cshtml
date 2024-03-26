@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BudgetingApp.BLL.DTOs.BudgetDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Budget</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<br />
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BudgetID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MonthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionCategoryID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionCategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BudgetID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MonthDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionCategoryID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionCategoryName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

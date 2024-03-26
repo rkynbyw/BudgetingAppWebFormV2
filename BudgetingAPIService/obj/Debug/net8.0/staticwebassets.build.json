@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+imfHmjnisn87Sx2ILccAT1uzHG1JXGn2YN4CxLG+cY=",
+  "Source": "BudgetingAPIService",
+  "BasePath": "_content/BudgetingAPIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

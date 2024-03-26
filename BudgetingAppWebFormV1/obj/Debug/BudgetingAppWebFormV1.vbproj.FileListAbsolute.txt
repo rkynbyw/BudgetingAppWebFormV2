@@ -87,3 +87,10 @@ D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\D
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\Dapper.xml
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Configuration.ConfigurationManager.dll
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Configuration.ConfigurationManager.xml
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.ValueTuple.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\Microsoft.Extensions.Primitives.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Memory.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Buffers.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAppWebFormV1\bin\System.Numerics.Vectors.dll

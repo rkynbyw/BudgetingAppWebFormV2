@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BudgetingApp.BO\BudgetingApp.BO.csproj" />
     <ProjectReference Include="..\BudgetingApp.DAL\BudgetingApp.DAL.csproj" />
   </ItemGroup>

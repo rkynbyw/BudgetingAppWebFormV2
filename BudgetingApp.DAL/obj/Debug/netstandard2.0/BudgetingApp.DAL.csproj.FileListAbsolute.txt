@@ -11,3 +11,4 @@ D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Debug\
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Debug\netstandard2.0\Budgetin.F4AF46CA.Up2Date
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Debug\netstandard2.0\BudgetingApp.DAL.dll
 D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Debug\netstandard2.0\BudgetingApp.DAL.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Debug\netstandard2.0\BudgetingApp.DAL.sourcelink.json

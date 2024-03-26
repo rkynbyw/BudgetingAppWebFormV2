@@ -1,0 +1,28 @@
+﻿@using BudgetingApp.BLL.DTOs
+@using Newtonsoft.Json
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+	<div class="d-sm-flex align-items-center justify-content-between mb-4">
+		<h1 class="mt-4 mb-4"></h1>
+	</div>
+	<div class="col-lg-12">
+		<!-- Basic Card Example -->
+		<div class="card shadow mb-4">
+			<div class="card-header py-3">
+				@if (Context.Session.GetString("user") != null)
+				{
+					var userLogin = JsonConvert.DeserializeObject<UserDTO>(Context.Session.GetString("user"));
+					var userfullname = userLogin.FullName;
+					<h6 class="m-0 font-weight-bold text-primary">Welcome @userfullname</h6>
+				}
+
+			</div>
+			<div class="card-body">
+			</div>
+		</div>
+	</div>
+</div>
+

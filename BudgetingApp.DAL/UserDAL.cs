@@ -3,7 +3,6 @@ using BudgetingApp.DAL.Interfaces;
 using Dapper;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data.SqlClient;
 
 namespace BudgetingApp.DAL
@@ -12,7 +11,8 @@ namespace BudgetingApp.DAL
     {
         private string GetConnectionString()
         {
-            return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            //return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            return Helper.GetConnectionString();
         }
 
         public void Delete(int id)
@@ -32,7 +32,14 @@ namespace BudgetingApp.DAL
 
         public User GetById(int id)
         {
-            throw new NotImplementedException();
+            using (SqlConnection conn = new SqlConnection(GetConnectionString()))
+            {
+                var strSql = @"select * from Users where UserID = @UserID";
+                var param = new { UserID = id };
+                var result = conn.QuerySingleOrDefault<User>(strSql, param);
+                return result;
+            }
+
         }
 
         public User GetUserByEmail(string email)
@@ -98,6 +105,45 @@ namespace BudgetingApp.DAL
                     throw new ArgumentException("Username atau Password salah");
                 }
                 return result;
+            }
+        }
+        public IEnumerable<User> GetRole()
+        {
+            using (SqlConnection conn = new SqlConnection(GetConnectionString()))
+            {
+                var strSql = "GetRole";
+                var results = conn.Query<User>(strSql, commandType: System.Data.CommandType.StoredProcedure);
+                return results;
+            }
+        }
+
+        public void UpdateRole(int userId, string role)
+        {
+            using (SqlConnection conn = new SqlConnection(GetConnectionString()))
+            {
+                try
+                {
+                    var strSql = "UpdateRole";
+                    var param = new
+                    {
+                        UserID = userId,
+                        Role = role
+                    };
+                    int result = conn.Execute(strSql, param, commandType: System.Data.CommandType.StoredProcedure);
+                    if (result != 1)
+                    {
+                        throw new SystemException("Update Role gagal");
+                    }
+                }
+                catch (SqlException sqlEx)
+                {
+                    throw new ArgumentException($"{sqlEx.Number}");
+                }
+                catch (Exception ex)
+                {
+                    throw new ArgumentException("Kesalahan: " + ex.Message);
+                }
+
             }
         }
     }

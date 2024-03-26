@@ -5,6 +5,8 @@ using BudgetingApp.DAL;
 using BudgetingApp.DAL.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using Helper = BudgetingApp.BLL.Interfaces.Helper;
 
 namespace BudgetingApp.BLL
 
@@ -53,7 +55,7 @@ namespace BudgetingApp.BLL
                     Username = entity.Username,
                     Password = Helper.GetHash(entity.Password),
                     Email = entity.Email,
-                    FullName = entity.FullName
+                    FullName = entity.FullName,
                 };
                 _userDAL.Insert(newUser);
             }
@@ -91,6 +93,41 @@ namespace BudgetingApp.BLL
                     Username = result.Username,
                     Email = result.Email,
                     FullName = result.FullName,
+                    Role = result.Role,
+                };
+
+                return userDTO;
+            }
+            catch (Exception ex)
+            {
+                throw new ArgumentException(ex.Message);
+            }
+        }
+
+        public UserDTO LoginMVC(UserLoginDTO userLoginDTO)
+        {
+            if (string.IsNullOrEmpty(userLoginDTO.Username))
+            {
+                throw new ArgumentNullException("Username is required");
+            }
+            if (string.IsNullOrEmpty(userLoginDTO.Password))
+            {
+                throw new ArgumentNullException("Password is required");
+            }
+            try
+            {
+                var result = _userDAL.Login(userLoginDTO.Username, Helper.GetHash(userLoginDTO.Password));
+                if (result == null)
+                {
+                    throw new ArgumentException("Username atau Password salah");
+                }
+                UserDTO userDTO = new UserDTO
+                {
+                    UserID = result.UserID,
+                    Username = result.Username,
+                    Email = result.Email,
+                    FullName = result.FullName,
+                    Role = result.Role
                 };
 
                 return userDTO;
@@ -113,7 +150,41 @@ namespace BudgetingApp.BLL
 
         public IEnumerable<UserDTO> GetAll()
         {
-            throw new NotImplementedException();
+            var users = _userDAL.GetAll();
+
+            var userDTOs = users.Select(user => new UserDTO
+            {
+                UserID = user.UserID,
+                Email = user.Email,
+                Username = user.Username,
+                FullName = user.FullName,
+                Role = user.Role
+            });
+
+            return userDTOs;
+        }
+
+        public IEnumerable<UserDTO> GetRole()
+        {
+            var roles = _userDAL.GetRole();
+            var userDTOs = roles.Select(user => new UserDTO
+            {
+                Role = user.Role
+            });
+            return userDTOs;
+        }
+
+        public void UpdateRole(int userId, string role)
+        {
+            try
+            {
+                _userDAL.UpdateRole(userId, role);
+            }
+            catch (Exception ex)
+            {
+                // Optionally log the exception
+                throw new Exception($"Failed to update user role: {ex.Message}", ex);
+            }
         }
 
         public UserDTO GetByUsername(string username)
@@ -126,11 +197,11 @@ namespace BudgetingApp.BLL
             throw new NotImplementedException();
         }
 
-
-
         public bool ValidateUserLogin(string email, string password)
         {
             throw new NotImplementedException();
         }
+
+
     }
 }

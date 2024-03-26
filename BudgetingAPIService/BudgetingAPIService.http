@@ -1,0 +1,6 @@
+@BudgetingAPIService_HostAddress = http://localhost:5150
+
+GET {{BudgetingAPIService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

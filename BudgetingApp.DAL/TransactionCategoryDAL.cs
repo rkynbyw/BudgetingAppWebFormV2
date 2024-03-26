@@ -3,7 +3,6 @@ using BudgetingApp.DAL.Interfaces;
 using Dapper;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data.SqlClient;
 
 namespace BudgetingApp.DAL
@@ -13,7 +12,8 @@ namespace BudgetingApp.DAL
 
         private string GetConnectionString()
         {
-            return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            //return ConfigurationManager.ConnectionStrings["BudgetingAppConnectionString"].ConnectionString;
+            return Helper.GetConnectionString();
         }
         public void Delete(int id)
         {
