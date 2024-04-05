@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUAmoBZ1d5kL/KfbYVdUZG2XwvRkZXsb+j7CGUTP7/3mn2QSk0P9NEwf/VCl7Pl2fMYAhnQt01dwKHvmyhJWMw==",
+  "dgSpecHash": "uxwmP+vHFDfPcGjSATiHn5CPSOB+oDwHPhsds415X7fAuJtsvodznBvk5UTAZ5mbu8IR0polmkXLEN+JIj6U0w==",
   "success": true,
-  "projectFilePath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\BudgetingApp.MVC.csproj",
+  "projectFilePath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\BudgetingApp.MVC.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\bsi80216\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "D:\\Users\\bsi80216\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

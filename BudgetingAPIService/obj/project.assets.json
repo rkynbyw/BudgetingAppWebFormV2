@@ -4837,11 +4837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
+      "projectUniqueName": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
       "projectName": "BudgetingAPIService",
-      "projectPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
+      "projectPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
       "packagesPath": "D:\\Users\\bsi80216\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\obj\\",
+      "outputPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\bsi80216\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4858,11 +4858,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj": {
-              "projectPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj"
+            "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj": {
+              "projectPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj"
             },
-            "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj": {
-              "projectPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj"
+            "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj": {
+              "projectPath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj"
             }
           }
         }

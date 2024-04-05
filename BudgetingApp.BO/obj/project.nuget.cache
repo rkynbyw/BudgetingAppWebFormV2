@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ET8Bd8pm3qioG9Cegfcenr9fpicJpY22Rl+cV6SrNx98zdWI2bVgnWqA2Mvu7XnaPvukRsmplW+S8kGJBJLdA==",
+  "dgSpecHash": "vcqbcniLWs5BmMKJ2HCk0dyaF2POpcWEorndL6M5pD2Ptl4m1AnbRs8NmETKsusoOvhgcSdYKrCsZ2ER5UwhoA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
+  "projectFilePath": "D:\\Users\\bsi80216\\Documents\\Bootcamp\\MVCusingAPI\\BudgetingAppWebFormV1\\BudgetingApp.BO\\BudgetingApp.BO.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\bsi80216\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "D:\\Users\\bsi80216\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

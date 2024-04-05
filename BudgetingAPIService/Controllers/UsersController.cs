@@ -14,7 +14,7 @@ namespace BudgetingAPIService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : Controller
+    public class UsersController : ControllerBase
     {
         private readonly IUserBLL _userBLL;
         private readonly AppSettings _appSettings;
@@ -26,9 +26,17 @@ namespace BudgetingAPIService.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<UserDTO> Get()
+        public IActionResult GetAll()
         {
-            return _userBLL.GetAll();
+            try
+            {
+                var users = _userBLL.GetAll();
+                return Ok(users);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpPost("login")]
@@ -44,9 +52,9 @@ namespace BudgetingAPIService.Controllers
                 var role = userLogin.Role;
 
                 var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.Name, user.Username)
-        };
+                {
+                    new Claim(ClaimTypes.Name, user.Username)
+                };
 
                 // Menambahkan peran ke dalam claims jika ada
                 if (!string.IsNullOrEmpty(role))
@@ -70,7 +78,8 @@ namespace BudgetingAPIService.Controllers
                 {
                     Username = user.Username,
                     Role = user.Role,
-                    Token = tokenString
+                    Token = tokenString,
+                    UserID = user.UserID,
                 };
 
                 return Ok(userWithToken);
@@ -125,7 +134,7 @@ namespace BudgetingAPIService.Controllers
         }
 
         [HttpGet("roles")]
-        public IActionResult GetRole()
+        public IActionResult GetRoles()
         {
             try
             {
@@ -137,6 +146,5 @@ namespace BudgetingAPIService.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
     }
 }

@@ -3,32 +3,96 @@
   "WorkspaceRootPath": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\transactionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\transactionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\users\\listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\users\\listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\views\\users\\getuserswithroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\views\\users\\getuserswithroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\budgetingapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\budgetingapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\models\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\models\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\transactioncategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\transactioncategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.apimvc\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D548A-059A-4754-82AC-CFF2556F0A1D}|BudgetingApp.APIMVC\\BudgetingApp.APIMVC.csproj|solutionrelative:budgetingapp.apimvc\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +103,76 @@
       "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.dal\\budgetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|solutionrelative:budgetingapp.dal\\budgetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\walletbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\walletbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\viewmodels\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\viewmodels\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\transactionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\transactionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,14 +211,6 @@
       "RelativeMoniker": "D:0:0:{F9511E97-32F0-4D59-B561-59F3E58B5FEC}|BudgetingApp.BO\\BudgetingApp.BO.csproj|solutionrelative:budgetingapp.bo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.dal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|solutionrelative:budgetingapp.dal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,16 +219,8 @@
       "RelativeMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|solutionrelative:budgetingapp.dal\\transactiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\walletbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\walletbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\walletupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,10 +241,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\budgetbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\walletcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,10 +287,6 @@
       "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\dtos\\budgetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.bll\\wallettypebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\wallettypebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -195,11 +303,11 @@
       "RelativeMoniker": "D:0:0:{29A09E42-74A4-4A89-895C-C9DBE830AD7C}|BudgetingAPIService.BLL\\BudgetingAPIService.BLL.csproj|solutionrelative:budgetingapiservice.bll\\interfaces\\itransactionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingappwebformv1\\page-login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\budgetingappwebformv1\\page-login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|solutionrelative:budgetingappwebformv1\\page-login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingappwebformv1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\budgetingappwebformv1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|BudgetingAppWebFormV1\\BudgetingAppWebFormV1.vbproj|solutionrelative:budgetingappwebformv1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -239,10 +347,6 @@
       "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\interfaces\\iwalletbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}|BudgetingAPIService\\BudgetingAPIService.csproj|solutionrelative:budgetingapiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C1C80E7-1E58-439B-830B-8E862261FF65}|BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.domain\\wallettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C1C80E7-1E58-439B-830B-8E862261FF65}|BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj|solutionrelative:budgetingapiservice.domain\\wallettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -265,10 +369,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4F49D54-FE5F-4964-9E68-99AFCCF6FB6D}|BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.data\\budgetingapiservice.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D4F49D54-FE5F-4964-9E68-99AFCCF6FB6D}|BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj|solutionrelative:budgetingapiservice.data\\budgetingapiservice.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.bll\\budgetingapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B0D19698-9BDD-46CC-BF6E-CB4E6A981653}|BudgetingApp.BLL\\BudgetingApp.BLL.csproj|solutionrelative:budgetingapp.bll\\budgetingapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C1C80E7-1E58-439B-830B-8E862261FF65}|BudgetingAPIService.Domain\\BudgetingAPIService.Domain.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapiservice.domain\\mostusertransactionview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -303,20 +403,8 @@
       "RelativeMoniker": "D:0:0:{873524F9-D149-4144-BD2A-B0345CC68F59}|BudgetingApp.DAL\\BudgetingApp.DAL.csproj|solutionrelative:budgetingapp.dal\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\budgets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -327,28 +415,8 @@
       "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\budgets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|d:\\users\\bsi80216\\source\\repos\\budgetingappwebformv1\\budgetingapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE77A3E5-F686-4141-B6C7-62D566D24ED6}|BudgetingApp.MVC\\BudgetingApp.MVC.csproj|solutionrelative:budgetingapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -357,1065 +425,103 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 220,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 496,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BudgetsController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\BudgetsController.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\BudgetsController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\BudgetsController.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Controllers\\BudgetsController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAowE4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:33:44.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WalletsController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WalletsController.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\WalletsController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WalletsController.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Controllers\\WalletsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:34:07.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransactionBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\TransactionBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\TransactionBLL.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAswAIBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:07:30.803Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAUwBAAAAAtAAAA",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAswIoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:34:26.713Z",
+              "WhenOpened": "2024-04-03T20:46:49.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserCreateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Service\\IUserService.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:53:38.018Z",
+              "WhenOpened": "2024-04-04T01:42:25.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\appsettings.json",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\appsettings.json",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T20:45:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAcwIgBAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:11:08.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserCreateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:56:01.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\UserBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\UserBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\UserBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\UserBLL.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwLIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:57:44.238Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T02:40:46.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Program.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Program.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Program.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T13:53:41.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserWithToken.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\UserWithToken.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\ViewModels\\UserWithToken.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\UserWithToken.cs",
-              "RelativeToolTip": "BudgetingAPIService\\ViewModels\\UserWithToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:25:58.628Z",
+              "Title": "ListUser.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\ListUser.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Users\\ListUser.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\ListUser.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Users\\ListUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T20:24:11.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UserBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\UserBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\UserBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\UserBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\UserBLL.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAAwMIAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:46:25.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\Extensions.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Helpers\\Extensions.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\Extensions.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Helpers\\Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:16:20.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserDAL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\UserDAL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.DAL\\UserDAL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\UserDAL.cs",
-              "RelativeToolTip": "BudgetingApp.DAL\\UserDAL.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAASwGoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:45:35.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:52:06.756Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAkwGYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:12:25.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:53:32.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BudgetingAPIService",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\BudgetingAPIService.csproj",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
-              "RelativeToolTip": "BudgetingAPIService\\BudgetingAPIService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T14:08:53.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:07:03.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\Helper.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\Helper.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\Helper.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:06:06.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\User.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BO\\User.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\User.cs",
-              "RelativeToolTip": "BudgetingApp.BO\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:03:31.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:55:59.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:03:20.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUserDAL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
-              "RelativeToolTip": "BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:02:26.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TransactionDAL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\TransactionDAL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.DAL\\TransactionDAL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\TransactionDAL.cs",
-              "RelativeToolTip": "BudgetingApp.DAL\\TransactionDAL.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAApwFsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:11:35.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\appsettings.json",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\appsettings.json",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\appsettings.json",
-              "RelativeToolTip": "BudgetingAPIService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-24T14:01:30.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:25:56.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "WalletUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:01:32.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "WalletDAL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\WalletDAL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.DAL\\WalletDAL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\WalletDAL.cs",
-              "RelativeToolTip": "BudgetingApp.DAL\\WalletDAL.cs",
-              "ViewState": "AQIAANUAAAAAAAAAAAAewBcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:18:01.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "WalletDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:53:10.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WalletBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\WalletBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\WalletBLL.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAcwK8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:54:55.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T13:53:52.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BudgetBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\BudgetBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\BudgetBLL.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwFQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:19:22.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BudgetBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\BudgetBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\BudgetBLL.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAcwHgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:54:43.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "WalletCreateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:01:17.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "WalletBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\WalletBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\WalletBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\WalletBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\WalletBLL.cs",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAAAK4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:37:18.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TransactionCategoryBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:36:43.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "TransactionCategoryDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:35:57.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "TransactionCategoryBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\TransactionCategoryBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\TransactionCategoryBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\TransactionCategoryBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\TransactionCategoryBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:37:22.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TransactionCategoryDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:36:06.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ITransactionCategoryBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:35:31.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ITransactionCategoryBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:35:11.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BudgetDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:49:27.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "BudgetCreateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:49:44.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "BudgetUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:49:55.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IBudgetBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:47:15.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "WalletTypeBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletTypeBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\WalletTypeBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletTypeBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\WalletTypeBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:55:06.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IWalletTypeBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:51:54.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IWalletBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:47:27.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ITransactionBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:09:40.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Page-Login.aspx",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Page-Login.aspx",
-              "RelativeDocumentMoniker": "BudgetingAppWebFormV1\\Page-Login.aspx",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Page-Login.aspx",
-              "RelativeToolTip": "BudgetingAppWebFormV1\\Page-Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-25T06:06:54.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Web.config",
-              "RelativeDocumentMoniker": "BudgetingAppWebFormV1\\Web.config",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Web.config",
-              "RelativeToolTip": "BudgetingAppWebFormV1\\Web.config",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-25T06:06:03.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:53:25.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "WalletTypeDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:53:21.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IUserBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:57:10.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "IBudgetBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:56:44.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "WalletTypeDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:56:06.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IWalletTypeBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:55:51.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "WalletDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:56:04.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "TransactionUpdateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:09:22.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "IWalletBLL.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T04:48:32.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\User.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\User.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\User.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\User.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA3wBkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:31:57.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "BudgetingAPIService\\Models\\AppDbContext.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAA6wBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:27:29.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "TransactionCategory.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\TransactionCategory.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\TransactionCategory.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\TransactionCategory.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\TransactionCategory.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:31:45.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Transaction.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Transaction.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Transaction.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\Transaction.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:31:29.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "BudgetingAPIService.Data",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
-              "RelativeToolTip": "BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T16:35:53.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Wallet.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Wallet.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Wallet.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\Wallet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:32:20.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "WalletType.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\WalletType.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\WalletType.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\WalletType.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\WalletType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:32:29.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "BudgetingApp.BLL",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
-              "RelativeToolTip": "BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T16:32:50.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "MostUserTransactionView2.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:31:14.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "MostUserTransactionView.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransactionView.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransactionView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:30:25.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "MostUserTransaction.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransaction.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransaction.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransaction.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:30:08.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "Budget.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Budget.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Budget.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Budget.cs",
-              "RelativeToolTip": "BudgetingAPIService.Domain\\Budget.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:29:21.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "TransactionCreateDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:08:51.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "TransactionDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
-              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:09:06.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "TransactionDTO.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
-              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:58:41.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Helper.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.DAL\\Helper.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Helper.cs",
-              "RelativeToolTip": "BudgetingApp.DAL\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:11:40.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:46:14.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAUwFcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:28:29.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:28:16.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "WalletsController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\WalletsController.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\WalletsController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\WalletsController.cs",
-              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\WalletsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:25:57.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "TransactionsController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
-              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAEwHsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:24:26.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
-              "ViewState": "AQIAAGYAAAAAAAAAAIBJwHoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:20:56.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAIBJwEUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:06:48.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Create.cshtml",
               "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Transactions\\Create.cshtml",
@@ -1428,79 +534,1202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAqwEwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:25:31.52Z",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:06:48.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 14,
+              "Title": "BudgetingApp.BLL.csproj",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
+              "RelativeToolTip": "BudgetingApp.BLL\\BudgetingApp.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T16:32:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserWithToken.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserWithToken.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Models\\UserWithToken.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserWithToken.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Models\\UserWithToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:44:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Models\\UserLogin.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserLogin.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:46:21.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Program.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Program.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:38:41.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionCategoriesController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionCategoriesController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\TransactionCategoriesController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionCategoriesController.cs",
+              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\TransactionCategoriesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:54:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:31:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Models\\UserDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Models\\UserDTO.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:45:45.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:03:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:55:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BudgetDAL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\BudgetDAL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\BudgetDAL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\BudgetDAL.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\BudgetDAL.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:25:45.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BudgetsController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\BudgetsController.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\BudgetsController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\BudgetsController.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Controllers\\BudgetsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAxwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:33:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BudgetDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:49:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Program.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Program.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwF4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:53:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "BudgetsController.cs",
               "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\BudgetsController.cs",
               "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\BudgetsController.cs",
               "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\BudgetsController.cs",
               "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\BudgetsController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAADgv1QAAAAsAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwDEAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T01:23:05.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Users\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAACzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:12:25.97Z",
+              "DocumentIndex": 22,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:34:26.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAALcAAAAAAAAAAIBJwIwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:11:08.406Z",
+              "DocumentIndex": 23,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\UserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\UserBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\UserBLL.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAArwLMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:57:44.238Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 470,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
+              "Title": "WalletBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\WalletBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\WalletBLL.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAUwJgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:54:55.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Controllers\\WalletsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:34:07.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\WalletsController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA/wA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:25:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwJ0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:24:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BudgetBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\BudgetBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\BudgetBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\BudgetBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:54:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserWithToken.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\UserWithToken.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\ViewModels\\UserWithToken.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\UserWithToken.cs",
+              "RelativeToolTip": "BudgetingAPIService\\ViewModels\\UserWithToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:25:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:21:58.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "TransactionsController.cs",
               "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\TransactionsController.cs",
               "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "BudgetingAPIService\\Controllers\\TransactionsController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAswFcAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:23:21.191Z",
+              "WhenOpened": "2024-03-27T07:09:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\appsettings.json",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\appsettings.json",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\appsettings.json",
+              "RelativeToolTip": "BudgetingAPIService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T14:01:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Helpers\\AppSettings.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\AppSettings.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Helpers\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:28:49.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransactionBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\TransactionBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\TransactionBLL.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswAIBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:07:30.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:27:29.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:53:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\UserCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:56:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\UserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\UserBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\UserBLL.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAwMIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:46:25.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\Extensions.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Helpers\\Extensions.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Helpers\\Extensions.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Helpers\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:16:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\UserDAL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\UserDAL.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\UserDAL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwGoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:45:35.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IUserBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:52:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:53:32.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BudgetingAPIService.csproj",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\BudgetingAPIService.csproj",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\BudgetingAPIService.csproj",
+              "RelativeToolTip": "BudgetingAPIService\\BudgetingAPIService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T14:08:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:07:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\Helper.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\Helper.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\Helper.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:06:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\User.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BO\\User.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BO\\User.cs",
+              "RelativeToolTip": "BudgetingApp.BO\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:03:31.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUserDAL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\Interfaces\\IUserDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:02:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TransactionDAL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\TransactionDAL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\TransactionDAL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\TransactionDAL.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\TransactionDAL.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAApwFsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:11:35.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "BudgetingAPIService\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:25:56.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WalletUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:01:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WalletDAL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\WalletDAL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\WalletDAL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\WalletDAL.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\WalletDAL.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAewBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:18:01.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WalletDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:53:10.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BudgetingAPIService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:53:52.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BudgetBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\BudgetBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\BudgetBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\BudgetBLL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:19:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WalletCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:01:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WalletBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\WalletBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\WalletBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\WalletBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\WalletBLL.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAK4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:37:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TransactionCategoryBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\TransactionCategoryBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:36:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TransactionCategoryDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:35:57.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TransactionCategoryBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\TransactionCategoryBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\TransactionCategoryBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\TransactionCategoryBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\TransactionCategoryBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:37:22.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TransactionCategoryDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\TransactionCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:36:06.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ITransactionCategoryBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:35:31.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ITransactionCategoryBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\ITransactionCategoryBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:35:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BudgetCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:49:44.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BudgetUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\BudgetUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:49:55.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IBudgetBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IBudgetBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:47:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "WalletTypeBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletTypeBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\WalletTypeBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\WalletTypeBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\WalletTypeBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:55:06.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IWalletTypeBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:51:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IWalletBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\IWalletBLL.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:47:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ITransactionBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\Interfaces\\ITransactionBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:09:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Page-Login.aspx",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Page-Login.aspx",
+              "RelativeDocumentMoniker": "BudgetingAppWebFormV1\\Page-Login.aspx",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Page-Login.aspx",
+              "RelativeToolTip": "BudgetingAppWebFormV1\\Page-Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-25T06:06:54.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Web.config",
+              "RelativeDocumentMoniker": "BudgetingAppWebFormV1\\Web.config",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAppWebFormV1\\Web.config",
+              "RelativeToolTip": "BudgetingAppWebFormV1\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-25T06:06:03.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:53:25.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "WalletTypeDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\WalletTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:53:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IUserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IUserBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:57:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IBudgetBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IBudgetBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:56:44.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "WalletTypeDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\WalletTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:56:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IWalletTypeBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IWalletTypeBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:55:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "WalletDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\WalletDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:56:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TransactionUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:09:22.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IWalletBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\Interfaces\\IWalletBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:48:32.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\User.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\User.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\User.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\User.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:31:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TransactionCategory.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\TransactionCategory.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\TransactionCategory.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\TransactionCategory.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\TransactionCategory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:31:45.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Transaction.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Transaction.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\Transaction.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:31:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BudgetingAPIService.Data.csproj",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
+              "RelativeToolTip": "BudgetingAPIService.Data\\BudgetingAPIService.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T16:35:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Wallet.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Wallet.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Wallet.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:32:20.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "WalletType.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\WalletType.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\WalletType.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\WalletType.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\WalletType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:32:29.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MostUserTransactionView2.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransactionView2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:31:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "MostUserTransactionView.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransactionView.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransactionView.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransactionView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:30:25.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "MostUserTransaction.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransaction.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\MostUserTransaction.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\MostUserTransaction.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\MostUserTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:30:08.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Budget.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.Domain\\Budget.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.Domain\\Budget.cs",
+              "RelativeToolTip": "BudgetingAPIService.Domain\\Budget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:29:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "TransactionCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:08:51.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
+              "RelativeToolTip": "BudgetingAPIService.BLL\\DTOs\\TransactionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:09:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
+              "RelativeToolTip": "BudgetingApp.BLL\\DTOs\\TransactionDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:58:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Helper.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.DAL\\Helper.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.DAL\\Helper.cs",
+              "RelativeToolTip": "BudgetingApp.DAL\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:11:40.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:46:14.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Budgets\\Edit.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:28:29.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Budgets\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:28:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "BudgetingApp.MVC\\Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAIBJwHoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:20:56.622Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 438,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwIgBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:49:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Service\\UserService.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Service\\UserService.cs",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Service\\UserService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAowE0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:46:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BudgetingApp.MVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.MVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BudgetingApp.MVC\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:25:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUsersWithRoles.cshtml",
+              "DocumentMoniker": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Users\\GetUsersWithRoles.cshtml",
+              "RelativeDocumentMoniker": "BudgetingApp.APIMVC\\Views\\Users\\GetUsersWithRoles.cshtml",
+              "ToolTip": "D:\\Users\\bsi80216\\source\\repos\\BudgetingAppWebFormV1\\BudgetingApp.APIMVC\\Views\\Users\\GetUsersWithRoles.cshtml",
+              "RelativeToolTip": "BudgetingApp.APIMVC\\Views\\Users\\GetUsersWithRoles.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T02:25:44.075Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 614,
+          "DockedWidth": 223,
           "SelectedChildIndex": -1,
           "Children": [
             {

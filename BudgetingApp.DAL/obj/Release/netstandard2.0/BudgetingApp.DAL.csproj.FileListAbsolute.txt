@@ -1,0 +1,14 @@
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\bin\Release\netstandard2.0\BudgetingApp.DAL.deps.json
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\bin\Release\netstandard2.0\BudgetingApp.DAL.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\bin\Release\netstandard2.0\BudgetingApp.DAL.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\bin\Release\netstandard2.0\BudgetingApp.BO.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\bin\Release\netstandard2.0\BudgetingApp.BO.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.csproj.AssemblyReference.cache
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.AssemblyInfoInputs.cache
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.AssemblyInfo.cs
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.csproj.CoreCompileInputs.cache
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.sourcelink.json
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\Budgetin.F4AF46CA.Up2Date
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.DAL\obj\Release\netstandard2.0\BudgetingApp.DAL.pdb

@@ -1,12 +1,11 @@
 ﻿using BudgetingAPIService.BLL.DTOs;
 using BudgetingAPIService.BLL.Interfaces;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BudgetingAPIService.Controllers
 {
 
-    [Authorize(Roles = "userplus,user")]
+    //[Authorize(Roles = "userplus,user")]
     [Route("api/[controller]")]
     [ApiController]
     public class TransactionsController : ControllerBase

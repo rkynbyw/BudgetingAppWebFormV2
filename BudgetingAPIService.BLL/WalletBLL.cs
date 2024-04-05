@@ -150,6 +150,8 @@ namespace BudgetingAPIService.BLL
                     Balance = wallet.Balance,
                     UserID = wallet.UserID,
                     WalletName = wallet.WalletType.Name,
+                    Name = wallet.WalletType.Name,
+
                     WalletType = new WalletTypeDTO
                     {
                         WalletTypeID = wallet.WalletType.WalletTypeID,

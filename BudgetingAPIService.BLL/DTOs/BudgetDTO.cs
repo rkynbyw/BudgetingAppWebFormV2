@@ -9,7 +9,6 @@
         public int? TransactionCategoryID { get; set; }
         public string TransactionCategoryName { get; set; }
         public decimal Expense { get; set; } // Tambahkan properti Expense di sini
-
         public decimal RemainingAmount { get; set; }
     }
 }

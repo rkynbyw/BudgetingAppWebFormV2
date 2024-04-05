@@ -1,0 +1,3 @@
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\bin\Release\netstandard2.0\publish\BudgetingApp.BO.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\bin\Release\netstandard2.0\publish\BudgetingApp.BO.deps.json
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingApp.BO\bin\Release\netstandard2.0\publish\BudgetingApp.BO.pdb

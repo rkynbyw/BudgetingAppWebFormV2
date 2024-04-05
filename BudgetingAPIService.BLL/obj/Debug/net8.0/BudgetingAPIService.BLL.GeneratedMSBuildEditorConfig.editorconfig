@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BudgetingAPIService.BLL
-build_property.ProjectDir = D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.BLL\
+build_property.ProjectDir = D:\Users\bsi80216\Documents\Bootcamp\MVCusingAPI\BudgetingAppWebFormV1\BudgetingAPIService.BLL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

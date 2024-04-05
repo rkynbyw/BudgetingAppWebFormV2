@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingApp.BLL", "Budgeti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingApp.MVC", "BudgetingApp.MVC\BudgetingApp.MVC.csproj", "{DE77A3E5-F686-4141-B6C7-62D566D24ED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingAPIService", "BudgetingAPIService\BudgetingAPIService.csproj", "{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingAPIService", "BudgetingAPIService\BudgetingAPIService.csproj", "{FF2316D9-1A22-450F-AFA3-3B6922AEB5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingAPIService.BLL", "BudgetingAPIService.BLL\BudgetingAPIService.BLL.csproj", "{29A09E42-74A4-4A89-895C-C9DBE830AD7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingAPIService.BLL", "BudgetingAPIService.BLL\BudgetingAPIService.BLL.csproj", "{29A09E42-74A4-4A89-895C-C9DBE830AD7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingAPIService.Data", "BudgetingAPIService.Data\BudgetingAPIService.Data.csproj", "{D4F49D54-FE5F-4964-9E68-99AFCCF6FB6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingAPIService.Data", "BudgetingAPIService.Data\BudgetingAPIService.Data.csproj", "{D4F49D54-FE5F-4964-9E68-99AFCCF6FB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingAPIService.Domain", "BudgetingAPIService.Domain\BudgetingAPIService.Domain.csproj", "{6C1C80E7-1E58-439B-830B-8E862261FF65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BudgetingAPIService.Domain", "BudgetingAPIService.Domain\BudgetingAPIService.Domain.csproj", "{6C1C80E7-1E58-439B-830B-8E862261FF65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetingApp.APIMVC", "BudgetingApp.APIMVC\BudgetingApp.APIMVC.csproj", "{843D548A-059A-4754-82AC-CFF2556F0A1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6C1C80E7-1E58-439B-830B-8E862261FF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1C80E7-1E58-439B-830B-8E862261FF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1C80E7-1E58-439B-830B-8E862261FF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843D548A-059A-4754-82AC-CFF2556F0A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843D548A-059A-4754-82AC-CFF2556F0A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843D548A-059A-4754-82AC-CFF2556F0A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843D548A-059A-4754-82AC-CFF2556F0A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\bin\Release\net8.0\BudgetingAPIService.Domain.deps.json
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\bin\Release\net8.0\BudgetingAPIService.Domain.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\bin\Release\net8.0\BudgetingAPIService.Domain.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.AssemblyInfoInputs.cache
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.AssemblyInfo.cs
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.csproj.CoreCompileInputs.cache
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.sourcelink.json
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\refint\BudgetingAPIService.Domain.dll
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\BudgetingAPIService.Domain.pdb
+D:\Users\bsi80216\source\repos\BudgetingAppWebFormV1\BudgetingAPIService.Domain\obj\Release\net8.0\ref\BudgetingAPIService.Domain.dll
